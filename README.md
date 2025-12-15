@@ -6,10 +6,8 @@ Internships:
 - Software Engineer Intern at [Plexifact](https://www.plexifact.io/) 📊
 
 Some notable projects:
-- [Chess Game](https://github.com/kentongelis/Chess)♟️
-- [Rainbow Six Siege API](https://github.com/kentongelis/Rainbow-Six-Siege-API)🎮
+- [Inventory Management System with Demand Forecasting](https://github.com/kentongelis/invertory_management_system)
+- [AI Homework Agent](https://github.com/kentongelis/HomeworkAgent)
 
 Projects I'm working on:
-- AI Homework Agent
-- Inventory Management System with Demand Forecasting
-
+- 2D Java Game

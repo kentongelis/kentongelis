@@ -10,4 +10,4 @@ Some notable projects:
 - [AI Homework Agent](https://github.com/kentongelis/HomeworkAgent)
 
 Projects I'm working on:
-- 2D Java Game
+- Personal Efficiency Dashboard with Voice Agent (Jarvis)

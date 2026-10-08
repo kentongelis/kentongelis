@@ -1,6 +1,10 @@
-## Hey! 
-My name is Kenton Gelis and I am a Applied Computer Science at Dominican Univeristy of California. I enjoy back-end programming because it allows me to build the underlying systems that power applications, 
-solving complex problems and optimizing performance while working with databases, servers, and APIs. The challenge of creating efficient, scalable solutions is deeply satisfying to me.
+## Hey! 👋
+
+I'm Kenton Gelis, an Applied Computer Science student at Dominican University of California and a member of the soccer team.
+
+- **Foundation:** I started with back-end development, where I enjoy building the systems behind applications: databases, servers, and APIs, with a focus on efficient, scalable solutions.
+- **Now:** I'm delving deeper into AI/ML through coursework like Harvard's CS50 AI and projects like an MCP server that connects AI assistants to Canvas LMS.
+- **Next:** I'm looking to earn a Master's in Computer Science starting Fall 2027.
 
 Internships:
 - Software Engineer Intern at [Plexifact](https://www.plexifact.io/) 📊
